@@ -50,12 +50,12 @@ def banner():
     print WW+"  |            MOD BY: MR.SANTUYY               |"
     print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
     print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm  |"
-    print Y+"   |             INSTAGRAM: -----------           |"
+    print Y+"   |             INSTAGRAM: -----------          |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
-    print GL+"  |•••••••••   HACK FACEBOOK BAMBANG ^_^   •••••••••|"
+    print GL+"  |•••••••   HACK FACEBOOK BAMBANG ^_^   •••••••|"
     print GG+"  √=============================================√"
 
 banner()
